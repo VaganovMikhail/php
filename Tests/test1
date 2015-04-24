@@ -1,8 +1,4 @@
 <?
-while (1)
-{
-  echo 'test test';
-  break;
-}
 
+  echo "test test";
 ?>
