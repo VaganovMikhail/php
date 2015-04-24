@@ -1,0 +1,8 @@
+<?
+while (1)
+{
+  echo 'test test';
+  break;
+}
+
+?>
