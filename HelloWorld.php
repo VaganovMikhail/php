@@ -1,6 +1,6 @@
 <?php
-@info = phpinfo();
-echo @info;
+$info = phpinfo();
+echo $info;
 class HelloWorld
 {
     /**
